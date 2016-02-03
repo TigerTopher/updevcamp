@@ -1,7 +1,7 @@
 +++
 date = "2016-02-03T12:26:05+08:00"
 title = "DevCamp [Mentorship]"
-mentors = ["arian", "dominic", "francis", "stephen"]
+mentors = ["arian", "dominic", "francis", "stephen", "toph"]
 
 +++
 
